@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+python-multipart
+pydantic
+celery
+redis
+SQLAlchemy
+psycopg2-binary
+python-jose
+pyjwt
